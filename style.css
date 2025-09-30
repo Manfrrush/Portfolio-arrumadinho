@@ -1,18 +1,18 @@
 body {
     background-color: #a8a8a8;
-  
+
 
 }
 
 .Port {
     font-family: "Caveat", cursive;
-   font-weight: 700px;
+    font-weight: 700px;
     font-style: normal;
     text-align: center;
-    margin-left: 30px ; 
+    margin-left: 30px;
 
-    
-    
+
+
 
 }
 
@@ -27,37 +27,102 @@ body {
 
 
 
-.Mim{
-    width: 400px;
+.Mim {
+    width: 500px;
     display: inline-block;
-    margin-left: 30px; 
+    margin-left: 600px;
+    margin-bottom: 5px;
 
-    
+
+
 
 }
-#h2a{
+
+#h2a {
     display: inline-block;
     margin-right: 100px;
 }
-#h2b{
+
+#h2b {
     display: inline-block;
     margin-right: 100px;
 }
-#h2c{
+
+#h2c {
     display: inline-block;
     margin-right: 100px;
 }
-#h2d{
+
+#h2d {
     display: inline-block;
     margin-right: 100px;
 }
-#art1{
+
+#art1 {
     margin-left: 30px;
     margin-top: 30px;
 }
-#img{
-   border-style:solid;
+
+#img {
+    border-style: solid;
     border-color: black;
     border-radius: 30px;
+    margin-left: 531px;
+
+}
+
+.Gabs {
+    text-align: center;
+}
+
+.Hab {
+    font-family: "Caveat", cursive;
+    font-weight: 700px;
+    font-style: inherit;
+
+
+
+}
+
+.Pc {
+    display: inline-block;
+    padding: ;
+
+
+}
+
+#git {
+    padding-right: 132px;
+}
+
+.Projeto {
+    display: inline-block;
+    border: black;
+    border-radius: 50px;
+
+}
+
+#Studio {
+    padding-right: 400px;
+    border-radius: 100px;
+    border-color: rgb(0, 0, 0);
+}
+
+#G1 {
+    border-radius: 50px;
+    border-color: black;
+}
+
+.poxa {
+    font-family: "Caveat", cursive;
+    font-weight: 700px;
+    font-style: normal;
    
+}
+
+
+.Cont{
+    font-family: "Caveat", cursive;
+    font-weight: 700px;
+    font-style: normal;
 }
