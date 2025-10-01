@@ -1,8 +1,8 @@
 body {
-    background-color: #a8a8a8;
+    background-color: #74b8f0;
 
 
-}
+} /* O body foi o inicio ou base para a criação dos demais  */
 
 .Port {
     font-family: "Caveat", cursive;
@@ -33,7 +33,7 @@ body {
     margin-left: 600px;
     margin-bottom: 5px;
 
-
+/* Essa parte de cima foi como se eu definisse o que iria fazer posicionando as fotos, e as partes mais basicas do site/portifólio */
 
 
 }
@@ -69,10 +69,11 @@ body {
     border-radius: 30px;
     margin-left: 531px;
 
-}
+} /* Esse bloco acima está separando ou espaçando as palavras, usei o id para separar uma o que facilitou muito na hora da montagem  */
 
 .Gabs {
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .Hab {
@@ -87,14 +88,18 @@ body {
 .Pc {
     display: inline-block;
     padding: ;
+    border: 5px solid rgb(255, 252, 252) ; 
+    border-radius: 30px;
+    text-align: center;
 
 
 }
 
 #git {
-    padding-right: 132px;
+   
+    
 }
-
+/* Aqui o trabalho entre id e class foi crucial, qundo senti necessidade optei por um ou por outro, sempre usando o display inline block para deixar as imagens posicionadas uma do lado da outra,o que ajudou para tornar as bordas arredondadas foi o border radius, com ele consegui realizar o que queria,  */
 .Projeto {
     display: inline-block;
     border: black;
@@ -119,10 +124,37 @@ body {
     font-style: normal;
    
 }
+/* Aqui eu realizei as prtes de projeto coloquei font family pra definir as fontes, fonte-weight ajudou a definir a grossura das "linhas" por assim dizer das letras, o que ajudou na parte de estilizar o site, novamente para espaçar uma imagem da outra usei o padding e no caso o "padding-right para definir o lado que queria o espçamento */
 
 
 .Cont{
     font-family: "Caveat", cursive;
     font-weight: 700px;
     font-style: normal;
+}
+
+#Zup{
+    padding-bottom: 0px;
+    margin-right:10px ;
+   
+}
+
+#num{
+    margin-bottom: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#e-mail{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#hub{
+    font-family: 'Times New Roman', Times, serif;
+}
+#pé{
+    text-align: center;
+}
+#office{
+    border: 5px solid white ;
+    border-radius: 30px;
 }
